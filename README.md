@@ -11,3 +11,8 @@ Vidal, Ace
 Hernandez, Patrick
 
 We are assigned to create a website about Alumni Information System with Data Analytics.
+
+To open our website:
+1. Place and Save the alumni file in C:\xampp\htdocs.
+2. Open the XAMPP Control Panel and Press Start the MySQL and Apache.
+3. And type "http://localhost/alumni/index.php" in browser.
