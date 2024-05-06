@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.main{
+    background: url(Pictures/cutehue.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+}
+
+.sub{
+    background-color: ghostwhite rgba(255, 255, 255, .15);
+    backdrop-filter: blur(5px);
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    position: relative;
+    margin: auto;
+}
+
+ul{
+    margin-top: 5%;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 30px 60px;
+}
+
+ul li h1{
+    font-size: 3rem;
+}
+
+ul li .pic{
+    height: 150px;
+    width: 150px;
+    margin-right: 10%;
+}
+
+ul li .pic1{
+    height: 100px;
+    width: 200px;
+    margin-right: 10%;
+}
+
+
+.container{
+    margin: auto;
+    padding: 0px; /* Padding is used to create space around an element's content, inside of any defined borders*/
+    align-items: center;
+    width: 70rem;
+    height: 15rem;
+    box-shadow: 0 0 1rem  0 rgba(0, 0, 0, .2);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, .15);
+    backdrop-filter: blur(5px);
+}
+
+.containerr{
+    margin: auto;
+    padding: 0px; /* Padding is used to create space around an element's content, inside of any defined borders*/
+    align-items: center;
+    width: 70rem;
+    height: 21rem;
+    box-shadow: 0 0 1rem  0 rgba(0, 0, 0, .2);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, .15);
+    backdrop-filter: blur(5px);
+}
+
+ul{
+    margin-top: 3%;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px 32px;
+}
+
+ul li .btn{
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 1rem  0 rgba(0, 0, 0, .2);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, .15);
+    backdrop-filter: blur(5px);
+    cursor: pointer;
+    border: 3px solid rgba(255, 255, 255, .15);
+    font-style: inherit;
+    font-weight: bolder;
+}
+
+h2{
+    font-size: 50px;
+}
+
+.btn{
+    width: 200px;
+    height: 50px;
+    box-shadow: 0 0 1rem  0 rgba(0, 0, 0, .2);
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, .15);
+    backdrop-filter: blur(5px);
+    cursor: pointer;
+    border: 3px solid rgba(255, 255, 255, .15);
+    font-style: inherit;
+    font-weight: bolder;
+}
